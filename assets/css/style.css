@@ -217,8 +217,7 @@ input[type=submit] {
   border: 0 none;
 }
 
-/* not sure anything really needs to be done here, come back to this later, just changing 
-color to check responsiveness at this width */
+/* I couldn't find anything that needed to be changed for the 980px or 768px so I changed the color of the text in the p tags for index.html */
 @media only screen and (max-width: 980px) {
   p {
     color: lightblue;
